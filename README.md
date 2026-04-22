@@ -88,13 +88,8 @@ Esta versión forma parte de una evolución en tres etapas:
 3. **Con Spring Boot + JPA**: reorganización del sistema con repositorios, entidades relacionadas y servicios
 
 ## Posibles mejoras
-
-- Mejorar el manejo de excepciones con una jerarquía más específica
-- Reemplazar inyección por campo por inyección por constructor
-- Optimizar algunas consultas de negocio
 - Incorporar controladores REST
 - Exponer el sistema como API web
-- Refactorizar algunos servicios para un desacople mayor
 
 ## Estado del proyecto
 
